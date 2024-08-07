@@ -34,17 +34,6 @@ To address these challenges, the platform can be developed using the following t
    - **Credits Purchase:** Securely buy credits via Stripe for uninterrupted use.
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- Next.js
-- TypeScript
-- MongoDB
-- Clerk
-- Cloudinary
-- Stripe
-- Shadcn
-- TailwindCSS
-
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
